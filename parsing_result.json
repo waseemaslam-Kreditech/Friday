@@ -1,0 +1,58 @@
+[
+  {
+    "street": "Musterstrasse",
+    "housenumber": "45"
+  },
+  {
+    "street": "rue de la revolution",
+    "housenumber": "4"
+  },
+  {
+    "street": "Calle Aduana",
+    "housenumber": "29"
+  },
+  {
+    "street": "Auf der Vogelwiese",
+    "housenumber": "23 b'"
+  },
+  {
+    "street": "Calle 39 No",
+    "housenumber": "1540'"
+  },
+  {
+    "street": "Broadway Av",
+    "housenumber": "200"
+  },
+  {
+    "street": "C. Francisco I. Madero No.",
+    "housenumber": "115"
+  },
+  {
+    "street": "Storgata",
+    "housenumber": "81A"
+  },
+  {
+    "street": "M. A. Jinnah Road",
+    "housenumber": "15"
+  },
+  {
+    "street": "Juan de Aliaga",
+    "housenumber": "230"
+  },
+  {
+    "street": "Av. del EjÃ©rcito",
+    "housenumber": "450"
+  },
+  {
+    "street": "NezÃ¡budkovÃ¡",
+    "housenumber": "3084/25"
+  },
+  {
+    "street": "19 street",
+    "housenumber": "121"
+  },
+  {
+    "street": "house no",
+    "housenumber": "11 berlin"
+  }
+]
